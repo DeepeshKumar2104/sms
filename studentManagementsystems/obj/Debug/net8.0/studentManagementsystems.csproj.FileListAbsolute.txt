@@ -1,0 +1,14 @@
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\bin\Debug\net8.0\studentManagementsystems.exe
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\bin\Debug\net8.0\studentManagementsystems.deps.json
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\bin\Debug\net8.0\studentManagementsystems.runtimeconfig.json
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\bin\Debug\net8.0\studentManagementsystems.dll
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\bin\Debug\net8.0\studentManagementsystems.pdb
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\studentManagementsystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\studentManagementsystems.AssemblyInfoInputs.cache
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\studentManagementsystems.AssemblyInfo.cs
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\studentManagementsystems.csproj.CoreCompileInputs.cache
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\studentManagementsystems.dll
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\refint\studentManagementsystems.dll
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\studentManagementsystems.pdb
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\studentManagementsystems.genruntimeconfig.cache
+C:\Users\kdeep\source\repos\studentManagementsystems\studentManagementsystems\obj\Debug\net8.0\ref\studentManagementsystems.dll
